@@ -1,0 +1,5 @@
+create table student_details(student_id int primary key,student_name varchar(50),email varchar(20),
+address varchar(20),gender varchar(20),phone_no varchar(20),parent_no varchar(20),dob varchar(20),
+dept varchar(20),course varchar(20),semester varchar(20),year varchar(20),photo varchar(20));
+
+
